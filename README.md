@@ -1,184 +1,178 @@
-# 环保漂流瓶
+# Eco Friendly Floating Bottle
 
-### 简介: 
+[中文介绍](README-zh.md)  
 
-```EFFB ( Eco Friendly Floating Bottle ) 是一个专门为用户和环境保护而设计的 Web3 奖励社交网络。 EFFB 是一个真正意义上的全球平台，来自世界各地的用户可以通过参与漂流瓶赚取积分。EFFB 提供了一个独特的价值主张——将区块链的最佳属性与远远超出加密生态系统的行业相结合，这使其与大多数加密项目相比独具特色且与众不同，拥有更大的目标市场规模。```
+### Introduction:
+
+```EFFB (Eco Friendly Floating Bottle) is a Web3 reward social network designed specifically for users and environmental protection. EFFB is a truly global platform where users from all over the world can earn points by participating in drifting bottles. EFFB offers a unique value proposition - combining the best attributes of blockchain with industries far beyond the crypto ecosystem, making it distinctive and different from most crypto projects, with a larger target market size.```
 
 ![Alt text](./images/eco-friendly-floating-bottle-high-resolution-logo.png)
 
-### 什么是EFFB: 
+### What is EFFB:
 
-EFFB 提供了一种利用 Web3 技术实现 **AI**、**社交化**、**增强用户参与度** 的解决方案，并以一种特别吸引早期采用者、社交玩家和区块链技术支持者的形式促进**环境保护**。
+EFFB offers a solution that utilizes Web3 technology to achieve **AI**, **socialization**, and **enhanced user engagement**, promoting **environmental protection** in a form that particularly attracts early adopters, social players, and blockchain technology supporters.
 
-简言之，EFFB 是一个基于 Web3 的奖励社交发现协议，旨在平等地惠及用户和公众利益。
+In short, EFFB is a Web3-based reward social discovery protocol aimed at equally benefiting users and the public interest.
 
-它利用区块链技术，使用户能够将他们的数字足迹和参与转变为一种促进公益的合作力量。譬如用户可在 App 上发送环保推广内容而获得环保基金，并能通过参与各种环保活动赢得环保基金，且环保基金由获胜者和环保组织共享。
+It leverages blockchain technology to enable users to transform their digital footprints and engagement into a collaborative force for promoting the public good. For example, users can earn environmental funds by posting environmental promotional content on the app and can win environmental funds by participating in various environmental activities, with the environmental funds shared by winners and environmental organizations.
 
-这就是利用区块链技术的社区驱动力，将赢得奖励的刺激感与汇集捐款的力量相结合，从而实现社会变革的新方式。
+This is a new way of social change utilizing blockchain technology's community-driven force, combining the sense of winning rewards with the power of pooling donations, thereby achieving societal change.
 
+# Overview of Social Industry Development
 
-# 社交行业发展概述
+With the development of Web3 technology and infrastructure, the social track has also ushered in new opportunities. Anonymity, censorship resistance, user ownership of data, and other factors attract users and developers to explore new social tools. The current Web3 social track has attracted the participation of some developers and capital, with hundreds of projects in the social ecosystem, including social chains, social graphs, social identities, various types of social applications, service tools, etc., attracting a large number of users and market attention.
 
-随着Web3技术和基建的发展，社交赛道也迎来了新的发展机会，匿名性、抗审查性、用户掌握数据所有权等都吸引着用户和开发者探索新的社交工具。当前Web3社交赛道已吸引了部分开发者和资本的参与，整个社交生态有数百个项目开发，社交、身份、NFT、DAO、粉丝等都可以归类到Web3社交的范畴中，生态项目较为丰富，吸引到了大量的用户和市场关注.
+# Characteristics of Social Track
 
+```For Web3 social, there is currently no unified definition. We can classify all products involving information dissemination, exchange, and user portrayal into the field of socialization. From the current development achievements, it mainly includes social public chains, social graphs, social identities, various types of social applications, service tools, etc.```
 
-# 社交赛道特点
+### Key factors driving the development of Web3 social:
 
-```对于Web3社交，目前尚没有统一的定义，我们可以将所有涉及到人与人的信息发布、交换、可用于用户刻画的产品归类到社交这一领域，从目前的发展成果来看，主要包括社交公链、社交图谱、社交身份、各类型的社交应用、服务类工具等。```
+#### 1. Anonymity, censorship resistance
 
-### Web3社交发展的关键因素包括：
+Compared to Web2 social, one of the biggest advantages of Web3 social is anonymity and censorship resistance, a feature that has already been verified as one of the user's demands at present.
+Decentralized Web3 inherently has the characteristics of protecting user privacy and resisting centralized institutional censorship. These characteristics can meet the user's demands for protecting privacy and maintaining their own security.
 
-#### 1. 匿名性、抗审查性
-相对于Web2社交，Web3社交最大的优势之一即是匿名性和抗审查性，这一特性本身在当下就已经被验证为用户的需求之一。
-去中心化的Web3天然具有保护用户隐私、抗中心化机构审查的特点，这些特点可以满足用户保护隐私和维护自身安全的诉求。
+#### 2. User ownership of data
 
-#### 2. 用户掌握数据所有权
-在Web3领域，可以通过使用户掌握数据所有权实现用户对数据流量商业价值的获取。从用户角度出发，设计出能让用户
-便捷地实现数据价值变现的项目对用户来说具有一定的吸引力。
-在Web3中，由于代币的多元性、代币本身价值的波动性、以及代币经济设计的丰富性，对数据所有权商业价值变现在Web3
-中可以衍生出非常多吸引用户的有趣玩法，具备甚至超过上一轮链游牛市所创造的造富效应和拉新效应。
+In the Web3 field, user ownership of data can be realized to obtain the commercial value of data traffic for users. From the user's perspective, projects that enable users to conveniently realize the commercial value realization of data have a certain appeal.
+In Web3, due to the diversity of tokens, the volatility of token value, and the richness of token economic design, the commercial value realization of data ownership can derive many interesting gameplay methods that attract users, which may even exceed the wealth creation effect and new user effect created by the previous round of chain game bull market.
 
-#### 3. 可组合性
-理想的Web3社交类产品或有机会解决数据孤岛的问题，类似POAP、ENS等对用户画像的描绘可以视作对数据孤岛的问题的解决的尝试。在未来，或会出现更加简单、无门槛的标准协议，在帮助用户实现便捷地掌握数据所有权的情况下，同时兼容对大多数协议的接入
+#### 3. Composability
 
-# 现在遇到的困境
+An ideal Web3 social product may have the opportunity to solve the problem of data silos, similar to attempts to depict user profiles such as POAP and ENS. In the future, simpler and more accessible standard protocols may appear to help users conveniently grasp data ownership while being compatible with access to most protocols.
 
-如何引入大量的用户，是Web3社交项目所面临的最大的挑战和机遇。当前加密领域发展受限的重要原因之一用户基数太少，
-一是用户进入加密领域有一定的学习门槛，用户需要掌握一定的计算机和加密知识，才能参与链上交互，
-二是当前的加密项目相比Web2的用户工具使用较为复杂，不够简单便捷.
-以EOA钱包为例，复杂的助记词和保存方式、潜在的被钓鱼和盗取私钥的风险、软件之间的更新迭代和兼容性问题
-等均影响了用户体验。将大量的Web2用户拦在加密世界之外，相对地，这也意味着，一旦能解决学习成本和进入门槛的问题，一旦有能够简单上手、让用户无感操作的社交项目的诞生，则将带来巨大的用户流量。
+# Current Challenges
 
-# 用户引流方式
+How to introduce a large number of users is the biggest challenge and opportunity for Web3 social projects. One of the important reasons limiting the development of the encryption field is that the user base is too small,
+First, there is a certain learning curve for users to enter the encryption field. Users need to master certain computer and encryption knowledge to participate in on-chain interactions,
+Second, compared to Web2 user tools, current encryption projects are more complex and less simple and convenient to use.
+For example, taking the EOA wallet as an example, the complex mnemonic and storage methods, potential phishing and theft of private keys, software update iterations, and compatibility issues between software all affect the user experience. Keeping a large number of Web2 users out of the encrypted world, relatively, this also means that once the problem of learning costs and entry barriers is solved, once there is a social project that is easy to use and allows users to operate without feeling, it will bring huge user traffic.
 
-### 1.社交媒体
-通过社交媒体平台（如Facebook、Instagram、Twitter、Discord等）和 环保漂流瓶 传播环保事业的重要性和平台的价值，通过**token空投**来免费引流, 吸引更多用户参与。
-### 2.合作与教育引导
-与各种环保组织、学校、企业合作，共同推广环保事业并吸引他们的成员参与到平台中, 推出互动性强的环保主题活动或挑战，鼓励用户参与并分享，进一步扩大环保影响力。
-### 3.内容创新
-不断创造新颖、有趣、具有教育意义的环保内容，如短视频、直播、图文等，以吸引更多用户的注意力，提高他们的环保意识和参与度。
+# User Acquisition Methods
 
-# 为什么要选Aptos做项目?
+### 1. Social Media
+Spread the importance of environmental protection and the value of the platform through social media platforms (such as Facebook, Instagram, Twitter, Discord, etc.) and Eco Friendly Floating Bottle, and attract more users to participate through **token airdrops**.
+### 2. Collaboration and Educational Guidance
+Collaborate with various environmental organizations, schools, and companies to jointly promote environmental protection and attract their members to participate in the platform. Launch interactive environmental-themed activities or challenges, encourage user participation, and sharing to further expand environmental influence.
+### 3. Content Innovation
+Continuously create novel, interesting, and educational environmental content, such as short videos, live broadcasts, graphics, etc., to attract more attention from users and increase their environmental awareness and participation.
 
-![Alt text](./images/aptos.png)
+# Why Choose Aptos for the Project?
 
+![alt text](./images/feature.png)
 
-# 对 Aptos 的协同作用和贡献
+### 1. Keyless Account
+Keyless technology allows users to access social features without carrying or remembering keys or passwords, providing a more convenient social experience. With Keyless technology, Web3 users can use this Dapp (Eco Friendly Floating Bottle) without a wallet, reducing the user threshold by logging in with Google, allowing more non-Web3 players to seamlessly enter the Aptos platform and become a traffic entry portal.
 
-1. Aptos 缺乏环保经济和社交领域的项目，因此 EFFB 可以填补这一空白并提供独特的价值。
+### 2. Pay for Another
+With the gas fee proxy feature provided by Web3, our product will enjoy the advantage of being used for free without users having to pay gas fees. This means that users no longer have to worry about the cost of using the product each time, greatly enhancing the attractiveness and user experience of the product. Compared to traditional payment models, our gas fee proxy feature provides users with a seamless, burden-free experience.
 
-2. EFFB 将把不同类型的用户带入 Aptos 生态系统，扩大和丰富Aptos社区。
+Meanwhile, our product is highly compatible with the gas fee proxy feature. For example, for instant messaging products similar to WeChat, the gas fee proxy feature allows users to send each message without paying a fee, greatly reducing the psychological burden on users and increasing the stickiness and usage of the product. The combination of our product and the gas fee proxy feature provides users with a more convenient, cost-effective experience, helping to attract more users and promote the development and growth of the product.
 
-3. 通过内部和外部的代币经济设计，EFFB将使社交用户，而不仅仅是投机者，获得真正的收入并超越庞氏模式。这与 Aptos 构建真正实用性和价值的目标一致。
-
-4. EFFB 将充分利用 Aptos 的高性能、可扩展性和 AI 功能来无缝集成我们的 AI 模型，从而实现世界环保的宣传, 以及通过预言机获取用户所在地的天气数据。
-
-5. 通过专注于社区，EFFB 将引入深度投资和参与的用户群，进一步增加 Aptos 上的活动和交易。
-
-6. EFFB 的社交化和透明方法将向新用户群体展示区块链的优势，充当主流消费者亲身体验 Aptos 优势的入口门户。
-
-7. 作为社区驱动的社交和世界环保讲述的创新模式，EFFB 将重点介绍新的用例，展示 Aptos 的多功能性和支持下一代应用程序的能力。
+### 3. Random Number
+By utilizing on-chain random number generation, our product can achieve the random generation of fund rewards without relying on offline oracles. This feature not only provides higher security and reliability for our product but also greatly reduces operational costs and complexity.
 
 
+# Synergy and Contribution to Aptos
 
+1. Aptos lacks projects in the environmental economy and social fields, so EFFB can fill this gap and provide unique value.
+2. EFFB will bring different types of users into the Aptos ecosystem, expanding and enriching the Aptos community.
+3. Through internal and external token economic design, EFFB will enable social users, not just speculators, to truly earn income and surpass Ponzi schemes. This is consistent with Aptos' goal of building practicality and value.
+4. EFFB will fully utilize Aptos' high performance, scalability, and AI capabilities to seamlessly integrate our AI models, enabling worldwide environmental promotion and obtaining weather data of users' locations through oracles.
+5. By focusing on the community, EFFB will introduce a deeply invested and engaged user base, further increasing activities and transactions on Aptos.
+6. EFFB's social and transparent approach will showcase the advantages of blockchain to new user groups, serving as a gateway for mainstream consumers to experience the advantages of Aptos firsthand.
+7. As a community-driven social innovation model for environmental protection storytelling, EFFB will focus on introducing new use cases, demonstrating Aptos' versatility and ability to support next-generation applications.
 
-# 环保漂流瓶 玩法
+# Eco Friendly Floating Bottle Gameplay
 
-### 1. 发布漂流瓶
+### 1. Drifting Bottle Release
 
-    1. 标签
-      通过发布带 环保\风力\新能源 等标签的漂流瓶内容, 根据用户所在地的天气, 来获取一定量的环保基金奖励
-      天气晴朗则获取的奖励较多, 天气恶劣(PM2.5含量过高)则不获取奖励, 鼓励全球一起来参与环保行动, 改善身边的环境.
-    2. 稀有生物Nft
-      通过发布漂流瓶,每次都有机会,抽取世界超稀有生物nft, 稀有生物和普通ntf.
-    3. 收集环保Idea
-      通过漂流瓶内的一个模块,公开征集环保idea, 达到一定的曝光量, 然后通过Dao组织的形式,  通过投票进行推广此Idea.
-      此Idea的提出者,获得大量的环保基金奖励, 有机会获得官方公开投资推广.
-    4. 每周小目标 
-      在每个周期内(周一 ~ 周日),单条漂流瓶点赞率达到4%,且发布7天内拾起率达到 5000/10000/50000/100000/5000000, 可获得瓜分倍数的2/3/6/8/15倍,
-      可参与瓜分100万环保基金奖池.
-    5. 每月涨粉攻擂赛 
-      在每个周期(当月1号 ~ 当月底)内, 完成一定数量的涨粉增量,可参与瓜分200万环保基金奖池.
-    6. 发布频率
-      在每个周期内(周一 ~ 周日), 达到每日发布签到, 每周最少发布三天, 可参与瓜分50万环保基金奖池.
-    7. 环保课堂激励计划
-      在平台发布环保课程, 并且开启免费试看, 给予一定量环保基金奖励.
+    1. Tags
+      By publishing drifting bottle content with tags such as environmental, wind power, and new energy, users can earn a certain amount of environmental funds based on the weather in their area. If the weather is sunny, they will receive more rewards, while if the weather is severe (PM2.5 content is too high), they will not receive rewards, encouraging global participation in environmental actions to improve the environment around them.
+    2. Rare Wildlife NFT
+      By releasing drifting bottles, there is a chance to draw world-class rare wildlife NFTs, both rare and common NTFs.
+    3. Collect Environmental Ideas
+      Through a module in the drifting bottle, publicize the collection of environmental ideas. When a certain exposure is reached, promote this idea through the form of DAO organization and vote. The proposer of this idea will receive a large amount of environmental fund rewards and have the opportunity to receive official public investment promotion.
+    4. Weekly Small Goals
+      Within each cycle (Monday to Sunday), if the like rate of a single drifting bottle reaches 4%, and the pick-up rate within 7 days of publication reaches 5000/10000/50000/100000/5000000, participants can get 2/3/6/8/15 times the multiplier to share a 1 million environmental fund prize pool.
+    5. Monthly Fan Growth Competition
+      Within each cycle (from the 1st to the end of the month), by achieving a certain number of fan growth increments, participants can share a 2 million environmental fund prize pool.
+    6. Posting Frequency
+      Within each cycle (Monday to Sunday), if you achieve daily check-ins and post at least three days a week, you can share a 500,000 environmental fund prize pool.
+    7. Environmental Classroom Incentive Plan
+      Publish environmental courses on the platform and offer free previews to give a certain amount of environmental fund rewards.
 
+### 2. Environmental Volunteer Activities
+Organize some environmental activities publicly, and participation in environmental volunteer activities will be included in the reward system. In addition to rewards for environmental promotional content, more actual environmental behaviors will be added as conditions for user participation, such as participating in environmental volunteer activities, saving energy, and reducing waste.
 
-### 2. 环保志愿活动
-将公开组织一些环保活动, 参与环保志愿活动将纳入奖励体系，在环保推广内容奖励基础上，增加更多实际的环保行为作为用户参与的条件，如参加环保志愿活动、节约能源和减少垃圾等。
+### 3. AI-Generated Environmental Propaganda Release
+Through AI (text/pictures/videos/sounds, etc.), automatically generate drifting bottle propaganda on environmental concepts, encourage users to save energy, reduce waste generation in daily life, cultivate environmental habits, and contribute to environmental protection.
 
-### 3. AI生成发布环保宣传
-通过AI(文字/图片/视频/声音等媒介)自动生成漂流瓶宣传环保概念，鼓励用户在日常生活中节约能源、减少垃圾产生，培养环保习惯，为环境保护贡献力量。
+### 4. Policy Overview
+Through participating in environmental drifting bottle activities, users can scan the QR code on the drifting bottle to learn about environmental issues and understand the attention paid by governments around the world to environmental causes and the formulation and implementation of environmental protection laws and regulations.
 
-### 4. 政策一扫通
-通过参与环保漂流瓶活动，用户可以通过扫描漂流瓶上的二维码，了解环境问题，并了解全球各国政府对环保事业的重视和环境保护法律法规的制定和执行情况。
+# Imagination
 
+AI integrates global environmental promotion and socialization, integrating massive environmental concepts into the evolving story of the world. By allowing users to publish environmental ideas or stories to enhance their awareness and change regarding environmental protection. **Through the weather in the user's area**, rewards will be given to the authors. There will be more gameplay: such as **collecting environmental ideas, like rates, follower counts, posting frequencies**, and other environmental activities waiting for everyone to participate in.
 
+One unique aspect of EFFB is its commitment to environmental protection - it is the first Web3 reward social network designed specifically for users and the public interest.
 
-# 想象
+```This model combines charitable donations with personal income, harmoniously coordinating these two aspects to ensure that EFFB players are not only driven by their own interests but also consistent with the broader goals of supporting Earth's environmental protection.```
 
-AI 融合了世界环保推广, 以及社交, 将大规模的环保理念融入世界不断发展的故事中。通过用户发布环保理念或者故事, 来让用户提升对环保的认识和改变. **通过用户所在地区的天气**,来给予作者奖励. 还会有更多玩法: 比如 **收集环保想法, 点赞率, 关注量, 发布频率**等等环保活动等待大家参加.
+```For every reward issued to users on the platform, an equal donation will be made to organizations dedicated to environmental protection. This "dual incentive" model ensures that user participation not only brings personal rewards but also contributes to larger goals consistent with the community. The platform promises to match rewards with conservation efforts, effectively transforming daily online activities (such as posting drifting bottles) into effortless environmental actions.```
 
-EFFB  的一个独特之处在于它对环境保护的承诺 ---- 是第一个专门为用户和公众利益而设计的 Web3 奖励社交网络。
+The health of the Earth is one of the most urgent and important challenges of our time, crucial not only for the protection of nature but also for ensuring the sustainable future of all species, including humans. Young native users of cryptography often consider saving the Earth to be one of the most important issues of our time, so by utilizing digital participation to promote environmental protection, EFFB demonstrates a model of how technology and Web3 innovation can support sustainability and environmental protection goals.
 
-```该模式将慈善捐赠与个人收益相结合，这两个方面和谐地协作，确保 EFFB 的玩家不仅受自身利益驱动，同时也与社区支持地球环保更广泛的目标保持一致。```
+This innovation aims to cultivate community awareness and common goals among users, who can see the direct impact of their actions on the Earth.
 
-```EFFB 平台每向用户发放一份奖励，就会向致力于环境保护的组织做出同等捐赠。这种「双重激励」模式确保用户参与不仅能带来个人奖励，还能为与社区整体目标一致的更大目标做出贡献。该平台承诺将奖励与保护工作相匹配，有效地将日常在线活动（例如发布漂流瓶）转化为轻而易举的环保行为。```
+EFFB pledges support for four verified environmental organizations: **Ocean Cleanup Organization, International Union for Conservation of Nature, Nature Conservancy, and Argentine Wildlife Foundation**.
 
-地球的健康是我们这个时代最紧迫和最重要的挑战之一，不仅对保护自然界至关重要，而且对确保包括人类在内的所有物种的可持续未来至关重要。年轻的加密原生用户往往认为拯救地球是我们这个时代最重要的问题，因此通过利用数字化参与来促进环境保护，EFFB 展示了一个如何利用技术和 Web3 创新来支持可持续性和环境保护目标的模型。
-
-这种创新旨在用户中培养社区意识和共同目标，他们可以看到自己的行动对地球的直接影响。
-
-EFFB 承诺支持四个经过核实的环境保护组织：**海洋清理组织、国际自然保护联盟、自然保护协会和阿根廷野生动物基金会**。
-
-# 团队成员介绍
+# Team Members Introduction
 
 ### MaxWell Pan (Owner)
-作为Web3全栈开发专家，致力于推动Web3技术在环保领域的应用和布道，以打造智能、可持续的未来为己任。不仅在技术上深耕，更是环保事业的虔诚信徒，将人工智能与Web3技术相融合，致力于打造一系列创新产品，以解决当今环保挑战，并鼓励更多的华语开发者和用户加入到这一崭新的Web3环保生态中。
+As a Web3 full-stack development expert, he is committed to promoting the application and preaching of Web3 technology in the field of environmental protection, aiming to create an intelligent and sustainable future. He is not only deeply involved in technology but also a devout believer in the cause of environmental protection, integrating artificial intelligence with Web3 technology to create a series of innovative products to address today's environmental challenges and encourage more Chinese developers and users to join this emerging Web3 environmental ecosystem.
 
 ### Finch
-资深全栈工程师和AI 开发者。致力于将 AI 技术应用于环保事业，以推动可持续发展和环境保护。
-正在探索如何利用区块链技术来建立可追溯的供应链，以确保产品的可持续性和环保性。以及如何利用智能合约来实现环保奖励机制，以鼓励更多的人参与到环保行动中来。
+Senior full-stack engineer and AI developer. Committed to applying AI technology to the cause of environmental protection to promote sustainable development and environmental protection.
+Currently exploring how to use blockchain technology to establish a traceable supply chain to ensure the sustainability and environmental friendliness of products. Also, exploring how to use smart contracts to implement environmental reward mechanisms to encourage more people to participate in environmental actions.
 
-# 代币经济学
+# Token Economics
 
-### 代币
+### Token
 
-符号：“$EFFB”
+Symbol: "$EFFB"
 
 Total: 100000000000000
 
+### Token Supply
 
-### 代币供应量
+25000000000000 %25 Users
 
-25000000000000 %25 用户 
+25000000000000 %25 Environmental Organizations
 
-25000000000000 %25 环保组织
+20000000000000 %20 Burn
 
-20000000000000 %20 烧毁
+10000000000000 %10 Marketing Airdrop
 
-10000000000000 %10 营销空投
+16000000000000 %16 Team Development
 
-16000000000000 %16 团队发展
+4000000000000 %4 Marketing Fund
 
-4000000000000 %4 营销基金
+### Explanation
 
-### 解释
+We will gradually increase liquidity based on market trading conditions.
 
-我们将根据市场交易情况分批增加流动性。
+Regarding airdrops, we will use 10% of the tokens for marketing airdrops. Please pay attention to official announcements for specific rules about airdrops.
 
-关于空投，我们将使用10%的代币进行营销空投。关于空投的具体规则，请关注官方公告。
+# Contact Us
 
+X: https://twitter.com/YongxuPan
 
-# 联系我们
+Email: panyx1002@gmail.com
 
-X:  https://twitter.com/YongxuPan
-
-电子邮件:  panyx1002@gmail.com
-
-### PC 官网
+### PC Official Website
 ![Alt text](./images/pc.png)
 
-### 移动端App
+### Mobile App
 ![Alt text](./images/mobile.png)
