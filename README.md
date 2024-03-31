@@ -172,7 +172,12 @@ X: https://twitter.com/YongxuPan
 Email: panyx1002@gmail.com
 
 ### PC Official Website
-![Alt text](./images/pc.png)
+![alt text](./images/image.png)
 
-### Mobile App
-![Alt text](./images/mobile.png)
+![alt text](./images/image1.png)
+
+![alt text](./images/image2.jpg)
+
+![alt text](./images/image3.jpg)
+
+![alt text](./images/image4.jpg)
