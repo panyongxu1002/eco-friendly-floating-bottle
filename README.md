@@ -58,12 +58,12 @@ Collaborate with various environmental organizations, schools, and companies to 
 ### 3. Content Innovation
 Continuously create novel, interesting, and educational environmental content, such as short videos, live broadcasts, graphics, etc., to attract more attention from users and increase their environmental awareness and participation.
 
-# Why Choose Aptos for the Project?
+<!-- # Why Choose Morph for the Project?
 
 ![alt text](./images/feature.png)
 
 ### 1. Keyless Account
-Keyless technology allows users to access social features without carrying or remembering keys or passwords, providing a more convenient social experience. With Keyless technology, Web3 users can use this Dapp (Eco Friendly Floating Bottle) without a wallet, reducing the user threshold by logging in with Google, allowing more non-Web3 players to seamlessly enter the Aptos platform and become a traffic entry portal.
+Keyless technology allows users to access social features without carrying or remembering keys or passwords, providing a more convenient social experience. With Keyless technology, Web3 users can use this Dapp (Eco Friendly Floating Bottle) without a wallet, reducing the user threshold by logging in with Google, allowing more non-Web3 players to seamlessly enter the Morph platform and become a traffic entry portal.
 
 ### 2. Pay for Another
 With the gas fee proxy feature provided by Web3, our product will enjoy the advantage of being used for free without users having to pay gas fees. This means that users no longer have to worry about the cost of using the product each time, greatly enhancing the attractiveness and user experience of the product. Compared to traditional payment models, our gas fee proxy feature provides users with a seamless, burden-free experience.
@@ -71,18 +71,18 @@ With the gas fee proxy feature provided by Web3, our product will enjoy the adva
 Meanwhile, our product is highly compatible with the gas fee proxy feature. For example, for instant messaging products similar to WeChat, the gas fee proxy feature allows users to send each message without paying a fee, greatly reducing the psychological burden on users and increasing the stickiness and usage of the product. The combination of our product and the gas fee proxy feature provides users with a more convenient, cost-effective experience, helping to attract more users and promote the development and growth of the product.
 
 ### 3. Random Number
-By utilizing on-chain random number generation, our product can achieve the random generation of fund rewards without relying on offline oracles. This feature not only provides higher security and reliability for our product but also greatly reduces operational costs and complexity.
+By utilizing on-chain random number generation, our product can achieve the random generation of fund rewards without relying on offline oracles. This feature not only provides higher security and reliability for our product but also greatly reduces operational costs and complexity. -->
 
 
-# Synergy and Contribution to Aptos
+# Synergy and Contribution to Morph
 
-1. Aptos lacks projects in the environmental economy and social fields, so EFFB can fill this gap and provide unique value.
-2. EFFB will bring different types of users into the Aptos ecosystem, expanding and enriching the Aptos community.
-3. Through internal and external token economic design, EFFB will enable social users, not just speculators, to truly earn income and surpass Ponzi schemes. This is consistent with Aptos' goal of building practicality and value.
-4. EFFB will fully utilize Aptos' high performance, scalability, and AI capabilities to seamlessly integrate our AI models, enabling worldwide environmental promotion and obtaining weather data of users' locations through oracles.
-5. By focusing on the community, EFFB will introduce a deeply invested and engaged user base, further increasing activities and transactions on Aptos.
-6. EFFB's social and transparent approach will showcase the advantages of blockchain to new user groups, serving as a gateway for mainstream consumers to experience the advantages of Aptos firsthand.
-7. As a community-driven social innovation model for environmental protection storytelling, EFFB will focus on introducing new use cases, demonstrating Aptos' versatility and ability to support next-generation applications.
+1. Morph lacks projects in the environmental economy and social fields, so EFFB can fill this gap and provide unique value.
+2. EFFB will bring different types of users into the Morph ecosystem, expanding and enriching the Morph community.
+3. Through internal and external token economic design, EFFB will enable social users, not just speculators, to truly earn income and surpass Ponzi schemes. This is consistent with Morph' goal of building practicality and value.
+4. EFFB will fully utilize Morph' high performance, scalability, and AI capabilities to seamlessly integrate our AI models, enabling worldwide environmental promotion and obtaining weather data of users' locations through oracles.
+5. By focusing on the community, EFFB will introduce a deeply invested and engaged user base, further increasing activities and transactions on Morph.
+6. EFFB's social and transparent approach will showcase the advantages of blockchain to new user groups, serving as a gateway for mainstream consumers to experience the advantages of Morph firsthand.
+7. As a community-driven social innovation model for environmental protection storytelling, EFFB will focus on introducing new use cases, demonstrating Morph' versatility and ability to support next-generation applications.
 
 # Eco Friendly Floating Bottle Gameplay
 
